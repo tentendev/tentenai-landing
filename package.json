@@ -1,0 +1,14 @@
+{
+  "name": "tentenai-landing",
+  "version": "1.0.0",
+  "description": "Tenten AI Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site, no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": ["ai", "consulting", "business", "automation"],
+  "author": "Tenten AI",
+  "license": "MIT"
+}
